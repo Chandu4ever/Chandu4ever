@@ -41,9 +41,9 @@ I am currently dedicated to managing and scaling high-traffic digital publishing
 
 ## 📈 GitHub Stats
 
-![Chandu Mullangi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=chandumullangi&show_icons=true&theme=radical)
+![Chandu Mullangi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chandu4ever&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chandumullangi&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chandu4ever&layout=compact&theme=radical)
 
 ---
 
