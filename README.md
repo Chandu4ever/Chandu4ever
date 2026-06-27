@@ -5,10 +5,10 @@
 ---
 
 ## 🚀 About Me
-* **Results-Driven Specialist:** 8+ years of experience in blogging, SEO, WordPress development, and digital publishing [cite: 4].
-* **Technical Versatility:** Proven expertise in building, optimizing, and monetizing content-driven websites, alongside full-cycle Android application development [cite: 5, 6].
-* **Strategic Growth:** Skilled in leveraging SEO-focused content strategies and ASO to drive organic traffic and user engagement [cite: 15, 25].
-* **Full-Stack Mindset:** Experienced in customizing WordPress themes/plugins and developing mobile applications using Java, XML, and Flutter [cite: 15, 23].
+* **Results-Driven Specialist:** 8+ years of experience in blogging, SEO, WordPress development, and digital publishing.
+* **Technical Versatility:** Proven expertise in building, optimizing, and monetizing content-driven websites, alongside full-cycle Android application development.
+* **Strategic Growth:** Skilled in leveraging SEO-focused content strategies and ASO to drive organic traffic and user engagement.
+* **Full-Stack Mindset:** Experienced in customizing WordPress themes/plugins and developing mobile applications using Java, XML, and Flutter.
 
 ---
 
