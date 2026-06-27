@@ -49,7 +49,7 @@ I am currently dedicated to managing and scaling high-traffic digital publishing
 
 ## 📬 Connect with Me
 
-- 💼 [LinkedIn](https://in.linkedin.com/in/chandu-mullangi-807b71146)
+- 💼 [LinkedIn](https://in.linkedin.com/in/chandu-mullangi)
 - 📧 [Email](mailto:chandumullangi1@gmail.com)
 - 🌐 [Portfolio/Website](https://teluguinsight.com/)
 
